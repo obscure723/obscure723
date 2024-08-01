@@ -15,6 +15,7 @@ I'm a passionate software developer with a love for open-source projects and web
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obscure723&layout=compact&hide_border=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=obscure723&hide_border=true&theme=radical)
 
 ## Tech Stack
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![85%](https://progress-bar.dev/85)
